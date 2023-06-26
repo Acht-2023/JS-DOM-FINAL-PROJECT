@@ -1,0 +1,48 @@
+body {
+    margin: 0;
+    background-color: #333333;
+}
+
+header {
+    margin-top: 30px;
+    text-align: center;
+}
+
+main {
+    text-align: center;
+    margin-top: 153px;
+}
+
+h1 {
+    color: #fff;
+}
+
+.menu {
+    text-decoration: none;
+}
+
+.buy {
+    text-decoration: none;
+}
+
+.booking {
+    text-decoration: none;
+    font-size: 16px;
+    color: #ffffff;
+    background-color: #B59571;
+    margin-top: 60px;
+    padding-right: 20px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    padding-left: 20px
+}
+
+li {
+    list-style-type: none;
+    margin-top: 60px;
+}
+
+footer {
+    text-align: center;
+    margin-top: 163px;
+}

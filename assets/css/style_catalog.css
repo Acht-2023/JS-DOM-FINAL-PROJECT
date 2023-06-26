@@ -1,0 +1,267 @@
+body {
+    background-color: #ffffff;
+    margin: 0;
+}
+
+.container {
+    height: 1000px;
+    width: 120px;
+    background-color: #333333;
+}
+
+.logo {
+    margin-left: 20px;
+    margin-top: 30px;
+}
+
+.menu {
+    margin-top: 28px;
+    margin-left: 43px;
+}
+
+.youtube {
+    margin-left: 40px;
+    margin-top: 674px;
+}
+
+.vk {
+    margin-left: 43px;
+    margin-top: 39px;
+}
+
+.tg {
+    margin-left: 48px;
+    margin-top: 41px
+}
+
+
+.meny {
+    margin-right: 312px;
+    float: right;
+    display: flex;
+    column-gap: 30px;
+}
+
+.menup {
+    width: 23px;
+    height: 23px;
+    float: right;
+    margin-top: 30px;
+}
+
+.meni {
+    margin-top: 32px;
+    color: black;
+    font-size: 16px;
+}
+
+.men {
+    width: 26px;
+    height: 26px;
+    float: right;
+    margin-top: 30px;
+}
+
+.vib {
+    margin-top: 60px;
+    float: right;
+    margin-right: 334px;
+    display: flex;
+    column-gap: 40px;
+}
+
+
+.line {
+    float: right;
+    margin-top: 90px;
+    margin-right: -61px;
+}
+
+.card_image {
+    width: 304px;
+    height: 220px;
+}
+
+.card {
+    width: 306px;
+    height: 404px;
+    border: 1px #33333333 solid;
+    padding: 6px;
+}
+
+.name {
+    margin-left: 30px;
+    width: 250px;
+    text-align: center;
+    margin-top: 30px;
+    font-size: 20px;
+    font-weight: 800;
+    margin-top: 30px;
+}
+
+.doc {
+    display: flex;
+    column-gap: 56px;
+    margin-left: 30px;
+    margin-top: 25px;
+}
+
+.price {
+    font-size: 32px;
+    font-weight: 800;
+}
+
+.bottom {
+    background-color: #B59571;
+    color: white;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+}
+
+.product_card {
+    margin-right: 265px;
+    margin-top: 2%;
+    float: right;
+    display: flex;
+    column-gap: 24px;
+}
+
+.product_card1 {
+    margin-right: 265px;
+    margin-top: 2%;
+    float: right;
+    display: flex;
+    column-gap: 24px;
+}
+
+.product_card2 {
+    margin-right: 32%;
+    margin-top: 2%;
+    float: right;
+    display: flex;
+    column-gap: 24px;
+    margin-bottom: 100px;
+}
+
+
+.politic {
+    color: #ffffff;
+    font-size: 16px;
+    margin-top: 50px;
+    margin-left: 311px;
+}
+
+.d-e-n {
+    margin-top: 50px;
+    margin-left: 231px;
+}
+
+.foot {
+    height: 45px;
+    width: 73px;
+    margin-top: 2%;
+    margin-left: 14%;
+}
+
+p11 {
+    width: 216px;
+    display: flex;
+    color: #ffffff;
+}
+
+p12 {
+    float: right;
+    color: #ffffff;
+}
+
+.container3 {
+    background-color: #333333;
+    width: 100%;
+    height: 120px;
+    display: flex;
+}
+
+.cart {
+    margin-top: 2%;
+    margin-left: 311px;
+}
+
+.doc1 {
+    display: flex;
+    column-gap: 56px;
+    margin-left: 30px;
+    margin-top: 46px;
+}
+
+.map {
+    float: right;
+}
+
+.one {
+    height: 1600px;
+}
+
+.sec {
+
+
+    display: flex;
+}
+
+.min {
+    margin-left: 312px;
+    font-size: 64px;
+    margin-bottom: 0;
+}
+
+.min2 {
+    margin-left: 25px;
+    font-size: 64px;
+    margin-bottom: 0;
+}
+
+h6 {
+    color: #B59571;
+    width: 135px;
+    margin-right: 0;
+    margin-bottom: 0;
+}
+
+.sec2 {
+    display: flex;
+}
+
+.map {
+    float: right;
+    margin-right: 10%;
+    margin-bottom: 100px;
+}
+
+.foot {
+    height: 45px;
+    width: 73px;
+    margin-top: 3%;
+    margin-left: 21%;
+}
+
+.text3 {
+    display: flex;
+    margin-left: 308px;
+}
+
+.text4 {
+    margin-left: 24px;
+    display: flex;
+}
+
+.line2 {
+    column-gap: 30px;
+    margin-left: 15%;
+    display: flex;
+    margin-top: 14px;
+}
+
+.line4 {
+    margin-top: 9px;
+    width: 60px;
+    height: 3px;
+}
